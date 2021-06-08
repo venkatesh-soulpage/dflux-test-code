@@ -1,0 +1,14 @@
+{
+  "name": "sunithaautomationproj",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.11.1"
+  }
+}
